@@ -90,6 +90,7 @@ python for WebScrapping and API for taking data
 ## About The Project
 
 ** API **: kita akan menggunakan API untuk mengambil data yang sudah di sediakan oleh devloper web tersebut
+
 ** Web Scrapping **: melakukan scrapping pada web dengan mengambil source yang tersedia di front page
 
 
