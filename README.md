@@ -13,8 +13,6 @@ __Web Scrapping__: melakukan scrapping pada web dengan mengambil source yang ter
 * []() Python
 
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -44,9 +42,9 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- LINK -->
-zomato: [https://developers.zomato.com/api?lang=id
-Pokemon: [https://pokeapi.co/
-WebSrap: [https://www.worldometers.info/coronavirus/
+-zomato: [zomato api](https://developers.zomato.com/api?lang=id)
+-Pokemon: [poke api](https://pokeapi.co/)
+-WebSrap: [corona virus web](https://www.worldometers.info/coronavirus/)
 
 
 
