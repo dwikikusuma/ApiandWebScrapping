@@ -22,37 +22,22 @@ __Web Scrapping__: pertama kita harus men-install package beutifulsoup untuk men
 >from bs4 import BeautifulSoup
 
 __API__: Pada API zomato kita harus melakukan login untuk mendapatkan key untuk mendapatkan data dari API(zomato) dan gunakan format
->key = "2c68df63207ef3a2d51d84607c22d23f"
->host = "https://developers.zomato.com/api/v2.1"
->head = {"user-key" : key
+>key = "2c68df63207ef3a2d51d84607c22d23f"  
+>host = "https://developers.zomato.com/api/v2.1"  
+>head = {"user-key" : key}  
+> lihat bagian [documentation](https://developers.zomato.com/documentation) pada halaman zomato untuk mengetahui parameter yang di butuhkan dari setiap API  
 
-### Prerequisites
+pada API pokemon hanya mengunakan web pokemon tersebut
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
 
 
 
 
 
 <!-- LINK -->
--zomato: [zomato api](https://developers.zomato.com/api?lang=id)
--Pokemon: [poke api](https://pokeapi.co/)
--WebSrap: [corona virus web](https://www.worldometers.info/coronavirus/)
+- zomato: [zomato api](https://developers.zomato.com/api?lang=id)
+- Pokemon: [poke api](https://pokeapi.co/)
+- WebSrap: [corona virus web](https://www.worldometers.info/coronavirus/)
 
 
 
