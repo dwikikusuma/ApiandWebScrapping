@@ -19,13 +19,14 @@ __Web Scrapping__: melakukan scrapping pada web dengan mengambil source yang ter
 
 
 __Web Scrapping__: pertama kita harus men-install package beutifulsoup untuk mengambil code html pada web yang akan kita scrap
->from bs4 import BeautifulSoup
+>from bs4 import BeautifulSoup (untuk WebScrapping)  
+>import request (untuk WebScrap dan API)
 
 __API__: Pada API zomato kita harus melakukan login untuk mendapatkan key untuk mendapatkan data dari API(zomato) dan gunakan format
 >key = "2c68df63207ef3a2d51d84607c22d23f"  
 >host = "https://developers.zomato.com/api/v2.1"  
 >head = {"user-key" : key}  
-> lihat bagian [documentation](https://developers.zomato.com/documentation) pada halaman zomato untuk mengetahui parameter yang di butuhkan dari setiap API  
+> NOTE:lihat bagian [documentation](https://developers.zomato.com/documentation) pada halaman zomato untuk mengetahui parameter yang di butuhkan dari setiap API  
 
 pada API pokemon hanya mengunakan web pokemon tersebut
 
